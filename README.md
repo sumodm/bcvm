@@ -1,7 +1,7 @@
 ## Bangalore Computer Vision Meetup
 
-###Notes on what forum for what
-----------------------------
+### Notes on each forum's purpose
+---------------------------------
 1. [Google Group](https://groups.google.com/forum/#!forum/bangalorecv)
     * Discussion and Questions about what is deep learning, how it works ? 
     * Questions about 
