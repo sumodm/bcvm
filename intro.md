@@ -12,7 +12,7 @@
   c. [Networks Manifold and Topology](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)  
   d. [Neural Netwoks Types and Functional Programming](http://colah.github.io/posts/2015-09-NN-Types-FP/)  
   
-### Courses (For those you want to dig deeper)
+### Courses (For those who want to dig deeper)
 
 ##### Introduction
 * Good introduction to Basic Neural Networks and Autoencoders: Andrew Ng [Video 1](https://web.stanford.edu/class/cs294a/video1.html), [Video 2](https://web.stanford.edu/class/cs294a/videor2.html), [Notes](https://web.stanford.edu/class/cs294a/handouts.html)
