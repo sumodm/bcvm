@@ -41,3 +41,30 @@
 
 #### Context
 * [A Critical View of Context: Not Deep Learning](http://www.cs.tau.ac.il/~wolf/papers/context.pdf)
+
+
+#### Suggestions
+* Next Week
+  * [Res Net]
+  * [NiN]
+  * Lightning Talks
+     * Inception 2, Inception3, Inception 4 [15 mins]
+     * Xavier                   [10 mins]
+     * ELu                      [4 mins]
+     * PreLU                    [10 mins]
+     * VReLU                    [5 mins]
+     * Dilated Conv: Multiplescale Context Aggregration using        [5 mins]
+     * 
+     * 
+     * CNN features of the off-the shelf: an Astounding Baseline 
+
+* Week After
+  * [STN]
+  * [Sim Nets]
+  * [Siamese ]
+* [RL using OpenAI]: Weekend Hacknight
+* [Generative Algo]
+  - Suraj: Generative Adverserial Networks
+  - Variational Autoencoders
+* [ ]
+* []
